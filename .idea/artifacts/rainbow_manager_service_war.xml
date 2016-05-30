@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rainbow-manager-service:war">
+    <output-path>$PROJECT_DIR$/rainbow-manager-service/target</output-path>
+    <root id="archive" name="rainbow-manager.war">
+      <element id="artifact" artifact-name="rainbow-manager-service:war exploded" />
+    </root>
+  </artifact>
+</component>

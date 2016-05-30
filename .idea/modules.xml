@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rainbow-common/rainbow-common.iml" filepath="$PROJECT_DIR$/rainbow-common/rainbow-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rainbow-manager/rainbow-manager.iml" filepath="$PROJECT_DIR$/rainbow-manager/rainbow-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rainbow-manager-dao/rainbow-manager-dao.iml" filepath="$PROJECT_DIR$/rainbow-manager-dao/rainbow-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rainbow-manager-pojo/rainbow-manager-pojo.iml" filepath="$PROJECT_DIR$/rainbow-manager-pojo/rainbow-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rainbow-manager-service/rainbow-manager-service.iml" filepath="$PROJECT_DIR$/rainbow-manager-service/rainbow-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rainbow-manager-web/rainbow-manager-web.iml" filepath="$PROJECT_DIR$/rainbow-manager-web/rainbow-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rainbow-parent/rainbow-parent.iml" filepath="$PROJECT_DIR$/rainbow-parent/rainbow-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rainbow-springmvc/rainbow-springmvc.iml" filepath="$PROJECT_DIR$/rainbow-springmvc/rainbow-springmvc.iml" />
+    </modules>
+  </component>
+</project>

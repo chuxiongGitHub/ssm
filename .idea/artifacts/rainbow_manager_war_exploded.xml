@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="rainbow-manager:war exploded">
+    <output-path>$PROJECT_DIR$/rainbow-manager/target/rainbow-manager</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="rainbow-manager" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/rainbow-manager/target/rainbow-manager/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="rainbow-manager/web/Web" />
+    </root>
+  </artifact>
+</component>

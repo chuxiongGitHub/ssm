@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rainbow-manager-dao:war">
+    <output-path>$PROJECT_DIR$/rainbow-manager-dao/target</output-path>
+    <root id="archive" name="rainbow-manager-dao.war">
+      <element id="artifact" artifact-name="rainbow-manager-dao:war exploded" />
+    </root>
+  </artifact>
+</component>
