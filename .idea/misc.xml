@@ -12,6 +12,7 @@
     <file type="web" url="file://$PROJECT_DIR$/rainbow-manager-web" />
     <file type="web" url="file://$PROJECT_DIR$/rainbow-mybatis" />
     <file type="web" url="file://$PROJECT_DIR$/rainbow-parent" />
+    <file type="web" url="file://$PROJECT_DIR$/rainbow-sso" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -19,6 +20,7 @@
         <option value="$PROJECT_DIR$/rainbow-parent/pom.xml" />
         <option value="$PROJECT_DIR$/rainbow-common/pom.xml" />
         <option value="$PROJECT_DIR$/rainbow-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/rainbow-sso/pom.xml" />
       </list>
     </option>
   </component>
@@ -32,7 +34,7 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="false" assert-keyword="true" jdk-15="true">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

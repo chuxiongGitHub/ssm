@@ -50,6 +50,13 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
       </profile>
+      <profile default="false" name="Annotation profile for rainbow-sso" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="rainbow-sso" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="rainbow-common" target="1.7" />
@@ -60,6 +67,7 @@
       <module name="rainbow-manager-web" target="1.7" />
       <module name="rainbow-mybatis" target="1.5" />
       <module name="rainbow-parent" target="1.7" />
+      <module name="rainbow-sso" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

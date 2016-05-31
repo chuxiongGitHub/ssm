@@ -9,7 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/rainbow-manager-service/rainbow-manager-service.iml" filepath="$PROJECT_DIR$/rainbow-manager-service/rainbow-manager-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/rainbow-manager-web/rainbow-manager-web.iml" filepath="$PROJECT_DIR$/rainbow-manager-web/rainbow-manager-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/rainbow-parent/rainbow-parent.iml" filepath="$PROJECT_DIR$/rainbow-parent/rainbow-parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rainbow-springmvc/rainbow-springmvc.iml" filepath="$PROJECT_DIR$/rainbow-springmvc/rainbow-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rainbow-sso/rainbow-sso.iml" filepath="$PROJECT_DIR$/rainbow-sso/rainbow-sso.iml" />
     </modules>
   </component>
 </project>
