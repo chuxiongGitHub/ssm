@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/rainbow-manager-web/rainbow-manager-web.iml" filepath="$PROJECT_DIR$/rainbow-manager-web/rainbow-manager-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/rainbow-parent/rainbow-parent.iml" filepath="$PROJECT_DIR$/rainbow-parent/rainbow-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/rainbow-sso/rainbow-sso.iml" filepath="$PROJECT_DIR$/rainbow-sso/rainbow-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-mybatis/springmvc-mybatis.iml" filepath="$PROJECT_DIR$/springmvc-mybatis/springmvc-mybatis.iml" />
     </modules>
   </component>
 </project>

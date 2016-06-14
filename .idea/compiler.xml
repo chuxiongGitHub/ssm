@@ -57,6 +57,13 @@
         <processorPath useClasspath="true" />
         <module name="rainbow-sso" />
       </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="springmvc-mybatis" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="rainbow-common" target="1.7" />
@@ -68,6 +75,7 @@
       <module name="rainbow-mybatis" target="1.5" />
       <module name="rainbow-parent" target="1.7" />
       <module name="rainbow-sso" target="1.7" />
+      <module name="springmvc-mybatis" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -13,6 +13,7 @@
     <file type="web" url="file://$PROJECT_DIR$/rainbow-mybatis" />
     <file type="web" url="file://$PROJECT_DIR$/rainbow-parent" />
     <file type="web" url="file://$PROJECT_DIR$/rainbow-sso" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-mybatis" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -21,6 +22,7 @@
         <option value="$PROJECT_DIR$/rainbow-common/pom.xml" />
         <option value="$PROJECT_DIR$/rainbow-manager/pom.xml" />
         <option value="$PROJECT_DIR$/rainbow-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-mybatis/pom.xml" />
       </list>
     </option>
   </component>
