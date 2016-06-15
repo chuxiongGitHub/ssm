@@ -1,6 +1,6 @@
 package com.rainbow.mapper;
 
-import com.rainbow.entity.ItemsCustom;
+import com.rainbow.entity.ItemsCustomer;
 import com.rainbow.entity.ItemsQueryVo;
 
 import java.util.List;
@@ -13,5 +13,5 @@ public interface ItemsMapperCustomer {
     /**
      * 商品列表查询
      */
-    public List<ItemsCustom> findItemsList(ItemsQueryVo itemsQueryVo)throws Exception;
+    public List<ItemsCustomer> findItemsList(ItemsQueryVo itemsQueryVo)throws Exception;
 }

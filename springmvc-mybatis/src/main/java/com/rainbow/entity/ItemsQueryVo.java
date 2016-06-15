@@ -1,38 +1,27 @@
 package com.rainbow.entity;
 
 /**
- * 
- * <p>Title: ItemsQueryVo</p>
- * <p>Description:商品包装对象 </p>
- * <p>Company: www.itcast.com</p> 
- * @author	传智.燕青
- * @date	2015-4-13下午3:22:36
- * @version 1.0
+ * Created by rainbow on 2016/6/15.
+ * 每天进步一小步
  */
+//定义商品的包装对象
 public class ItemsQueryVo {
-	
-	//商品信息
-	private Items items;
-	
-	//为了系统 可扩展性，对原始生成的po进行扩展
-	private ItemsCustom itemsCustom;
+private Items items;
+    private ItemsCustomer itemsCustomer;
 
-	public Items getItems() {
-		return items;
-	}
+    public Items getItems() {
+        return items;
+    }
 
-	public void setItems(Items items) {
-		this.items = items;
-	}
+    public void setItems(Items items) {
+        this.items = items;
+    }
 
-	public ItemsCustom getItemsCustom() {
-		return itemsCustom;
-	}
+    public ItemsCustomer getItemsCustomer() {
+        return itemsCustomer;
+    }
 
-	public void setItemsCustom(ItemsCustom itemsCustom) {
-		this.itemsCustom = itemsCustom;
-	}
-	
-	
-
+    public void setItemsCustomer(ItemsCustomer itemsCustomer) {
+        this.itemsCustomer = itemsCustomer;
+    }
 }

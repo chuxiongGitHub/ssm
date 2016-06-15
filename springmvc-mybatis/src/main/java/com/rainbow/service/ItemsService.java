@@ -1,6 +1,6 @@
 package com.rainbow.service;
 
-import com.rainbow.entity.ItemsCustom;
+import com.rainbow.entity.ItemsCustomer;
 import com.rainbow.entity.ItemsQueryVo;
 
 import java.util.List;
@@ -13,15 +13,7 @@ public interface ItemsService {
     /**
      * 商品查询列表
      */
-    public List<ItemsCustom> findItemsList(ItemsQueryVo itemsQueryVo)throws Exception;
+    public List<ItemsCustomer> findItemsList(ItemsQueryVo itemsQueryVo)throws Exception;
 
 
-    /**
-     * 根据ID查询商品信息
-     */
-    public ItemsCustom findItmesById(Integer id)throws Exception;
-    /**
-     * 修改商品信息
-     */
-    public void updteItems(Integer id,ItemsCustom itemsCustom)throws Exception;
 }
